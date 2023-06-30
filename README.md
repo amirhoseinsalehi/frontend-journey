@@ -20,7 +20,8 @@ hope it's useful for you 😉
 # Mid Articles
   - https://www.geeksforgeeks.org/reactjs-virtual-dom/
   - https://www.geeksforgeeks.org/reactjs-reconciliation/
-  - 
+    
 
 # Junior Articles
-  There is no link here yet!
+  - https://www.geeksforgeeks.org/dom-document-object-model/
+    
