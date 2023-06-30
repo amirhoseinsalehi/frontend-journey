@@ -1,4 +1,5 @@
-# frontend-journey
+# Front-End Developement Complimentary Articles
+
 This a useful list for every Front-End Developer to get the right way 😊
 In this Repo, I intend to share some useful articles to make a progress in the Front development field.
 If you want to participate and help other colleagues, you can **ADD** link to the articles you read recently. 
