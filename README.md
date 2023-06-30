@@ -18,7 +18,9 @@ hope it's useful for you 😉
   - https://cabulous.medium.com/how-does-browser-work-in-2019-part-iii-rendering-phase-i-850c8935958f
 
 # Mid Articles
-  There is no link here yet!
+  - https://www.geeksforgeeks.org/reactjs-virtual-dom/
+  - https://www.geeksforgeeks.org/reactjs-reconciliation/
+  - 
 
 # Junior Articles
   There is no link here yet!
