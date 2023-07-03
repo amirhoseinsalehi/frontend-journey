@@ -16,6 +16,7 @@ hope it's useful for you 😉
 # Senior Articles
   - https://timmousk.com/blog/react-call-function-in-child-component/#:~:text=To%20call%20a%20child's%20function%20from%20a%20parent%20component%2C%20you,it%20modifies%20a%20created%20reference.
   - https://cabulous.medium.com/how-does-browser-work-in-2019-part-iii-rendering-phase-i-850c8935958f
+  - https://eisenbergeffect.medium.com/hello-web-components-795ed1bd108e
 
 # Mid Articles
   - https://www.geeksforgeeks.org/reactjs-virtual-dom/
